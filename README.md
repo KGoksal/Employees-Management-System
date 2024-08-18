@@ -69,5 +69,4 @@ In this example:
 - `emp1` is a basic employee with default pay.
 - `emp2` is a commission-paid employee with a base rate and sales amount.
 - `emp3` is an hourly-paid employee with an hourly rate and hours worked.
-
 Each class provides its own `__str__()` method for a formatted string representation, displaying relevant details including weekly pay where applicable.
