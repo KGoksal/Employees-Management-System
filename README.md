@@ -44,7 +44,6 @@ Inherits from `Employee` and represents an employee who is paid based on an hour
 - `pay()`: Calculates and returns the weekly pay, considering regular hours and overtime hours (if applicable).
 
 ## Usage
-
 To use these classes, you can create instances of `Employee`, `CommissionPaid`, or `HourlyPaid` by initializing them with relevant details. Here's a simple example:
 
 ```python
