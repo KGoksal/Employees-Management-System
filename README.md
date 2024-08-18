@@ -1,6 +1,6 @@
 # Employees-Management-System
 
-This Python module (`employees.py`) defines classes to manage different types of employees within a company. It includes basic employee details and behaviors, as well as specific implementations for commission-paid and hourly-paid employees.
+This Python module (`employees.py`) defines classes to manage different types of employees within a company. It includes basic employee details and behaviors, as well as specific implementations for commission-paid and hourly-paid employees. This application is designed to facilitate efficient management of employee data and payroll within a company setting.
 
 ## Classes
 ### 1. Employee
