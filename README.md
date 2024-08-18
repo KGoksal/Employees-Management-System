@@ -69,3 +69,29 @@ print(emp3)
 - `emp2` is a commission-paid employee with a base rate and sales amount.
 - `emp3` is an hourly-paid employee with an hourly rate and hours worked.
 Each class provides its own `__str__()` method for a formatted string representation, displaying relevant details including weekly pay where applicable.
+
+1. **Employee**:
+   - Represents basic employee details such as name and department.
+   - Provides methods for retrieving and updating these details.
+   - Computes base pay for the employee.
+
+2. **CommissionPaid**:
+   - Inherits from `Employee`.
+   - Adds functionality for calculating pay based on a base rate and sales commission.
+   - Includes methods to manage base rate, sales amount, and compute weekly pay with commission.
+
+3. **HourlyPaid**:
+   - Also inherits from `Employee`.
+   - Handles pay calculations based on an hourly rate and hours worked.
+   - Manages hourly rate, hours worked, and computes weekly pay considering regular and overtime hours.
+
+### Usage:
+- Users can create instances of `Employee`, `CommissionPaid`, or `HourlyPaid` to represent different employees.
+- Each instance can be initialized with specific details and can compute its own weekly pay based on its pay structure (base rate + commission or hourly rate + overtime).
+
+### Features:
+- Encapsulates employee data and behaviors within each class.
+- Provides clear methods for setting and retrieving employee attributes.
+- Supports different pay structures (base rate + commission, hourly rate + overtime) catering to various employee types.
+
+This module serves as a foundation for managing employee data and payroll calculations within a company, offering flexibility for customization based on specific business needs.
