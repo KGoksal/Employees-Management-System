@@ -3,7 +3,6 @@
 This Python module (`employees.py`) defines classes to manage different types of employees within a company. It includes basic employee details and behaviors, as well as specific implementations for commission-paid and hourly-paid employees.
 
 ## Classes
-
 ### 1. Employee
 
 Represents a basic employee with attributes for name and department. This class includes methods to retrieve and update these attributes.
