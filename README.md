@@ -15,7 +15,6 @@ Represents a basic employee with attributes for name and department. This class 
 - `pay()`: Returns the base pay for the employee.
 
 ### 2. CommissionPaid
-
 Inherits from `Employee` and represents an employee who receives a base rate plus commission based on sales.
 
 **Additional Attributes:**
