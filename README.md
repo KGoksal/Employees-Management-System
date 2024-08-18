@@ -4,7 +4,6 @@ This Python module (`employees.py`) defines classes to manage different types of
 
 ## Classes
 ### 1. Employee
-
 Represents a basic employee with attributes for name and department. This class includes methods to retrieve and update these attributes.
 
 **Methods:**
