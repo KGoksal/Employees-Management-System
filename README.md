@@ -64,7 +64,7 @@ print(emp2)
 print(emp3)
 ```
 
-In this example:
+**In this example:**
 - `emp1` is a basic employee with default pay.
 - `emp2` is a commission-paid employee with a base rate and sales amount.
 - `emp3` is an hourly-paid employee with an hourly rate and hours worked.
