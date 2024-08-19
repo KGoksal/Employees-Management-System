@@ -94,4 +94,4 @@ Each class provides its own `__str__()` method for a formatted string representa
 - Supports different pay structures (base rate + commission, hourly rate + overtime) catering to various employee types.
 
 
-This module serves as a foundation for managing employee data and payroll calculations within a company, offering flexibility for customization based on specific business needs.
+-> This module serves as a foundation for managing employee data and payroll calculations within a company, offering flexibility for customization based on specific business needs.
