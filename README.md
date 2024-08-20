@@ -84,7 +84,7 @@ Each class provides its own `__str__()` method for a formatted string representa
    - Handles pay calculations based on an hourly rate and hours worked.
    - Manages hourly rate, hours worked, and computes weekly pay considering regular and overtime hours.
 
-### Usage:
+### Usage: 
 - Users can create instances of `Employee`, `CommissionPaid`, or `HourlyPaid` to represent different employees.
 - Each instance can be initialized with specific details and can compute its own weekly pay based on its pay structure (base rate + commission or hourly rate + overtime).
 
