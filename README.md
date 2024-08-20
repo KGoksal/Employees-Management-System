@@ -62,7 +62,7 @@ print(emp1)
 print(emp2)
 print(emp3)
 ```
-
+ 
 **In this example:**
 - `emp1` is a basic employee with default pay.
 - `emp2` is a commission-paid employee with a base rate and sales amount.
